@@ -15,9 +15,7 @@
     limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="swipe_to_delete_conversation_pref_title">Проведіть для видалення</string>
-    <string name="swipe_to_delete_conversation_pref_summary">Проведіть вправо для видалення бесіди</string>
-    <string name="show_emoticons_pref_title">Доступ до емограм</string>
-    <string name="show_emoticons_pref_summary">Показувати кнопку емограм на клавіатурі</string>
-    <string name="notification_channel_messages_title">Повідомлення</string>
+    <string name="swipe_to_delete_conversation_pref_title">Zuɣer akken ad-tekkseḍ</string>
+    <string name="swipe_to_delete_conversation_pref_summary">Zuɣer ar uyeffus iwakken ad-tekkseḍ adiwenni</string>
+    <string name="notification_channel_messages_title">Iznan</string>
 </resources>
